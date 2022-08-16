@@ -1,0 +1,19 @@
+body {
+    background: #CCCCCC
+}
+
+#imagem1 {
+    width: 100%;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.cabecalho {
+    padding-left: 20px;
+}
+
+p {
+    text-align: center;
+}
